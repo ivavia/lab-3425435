@@ -1,0 +1,38 @@
+body{
+    background-color: #577bf1;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif   
+}
+
+.liink{
+    text-decoration: none;
+    color:#000000;
+    border-bottom: 1px solid #06014e;
+    font-size: 25px;
+    top: 90px;
+    margin-left: 40%;
+}
+
+.img_puma{
+    margin-top: 30px;
+    margin-left: 30%;
+    position: absolute;
+    
+}
+
+.text1{
+    font-size: 70px;
+    text-align: left;
+    margin-left: 8%;
+    position: relative;
+    color: #ffffff;
+}
+
+.text2{
+    font-size: 70px;
+    text-align: right;
+    margin-right: 9%;
+    position: relative;
+    top: 200px;
+    color: #ececec;
+}
+

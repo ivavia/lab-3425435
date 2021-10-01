@@ -1,0 +1,37 @@
+body{
+    background-image: url(img/nike1.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.liink{
+    text-decoration: none;
+    color: #000;
+    border-bottom: 1px solid black;
+    font-size: 25px;
+    top: 90px;
+    margin-left: 40%;
+}
+
+.spisok{
+    font-size: 20px;
+    
+}
+
+.img_nike{
+    margin-top: 40px;
+    margin-left: 30%;
+    position: absolute;
+    
+}
+
+.text1{
+    font-size: 80px;
+    text-align: right;
+    margin-right: 12%;
+    bottom: 130px;
+    position: relative;
+    
+}
+

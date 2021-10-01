@@ -1,0 +1,37 @@
+body{
+    background-image: url(https://pw.artfile.me/wallpaper/18-11-2011/650x407/brendy-adidas-krasnyj-tyomnyj-588532.jpg);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.liink{
+    text-decoration: none;
+    color: #B22222;
+    border-bottom: 1px solid #B22222;
+    font-size: 25px;
+    top: 90px;
+    margin-left: 40%;
+}
+
+.img_adidas{
+    margin-top: 30px;
+    margin-left: 35%;
+    position: absolute;
+    
+}
+
+
+.spisok{
+    font-size: 18px;
+    top: 20px;
+    color: beige;
+}
+
+.text2{
+    font-size: 50px;
+    text-align: right;
+    margin-right: 7%;
+    position: relative;
+    top: 180px;
+    color: #B22222;
+}
+
